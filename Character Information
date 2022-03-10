@@ -18,6 +18,25 @@ Character Quality : Temperament of Character in the story
 4. Symbolic character -> The Person who most influence in the story
 5. Round character -> Support Character with Backstory
 
+Character Race :
+- Human -> Max Lifespan 150
+- High Human -> Max Lifespan 1500
+- Drawf -> Max Lifespan 1000
+- Elves -> Max Lifespan 2000
+- Beast Kin -> Max Lifespan 600
+- Lizard kin -> Max Lifespan 400
+- Dragon Kin -> Max Lifespan 1000000
+- Fairy -> Max Lifespan 10000000
+- Orc Kin -> Max Lifespan 100
+- Ghost Kin -> Ghoul, Ghost -> No Lifespan
+- Insect Animal ? -> Max Lifespan 100
+- Aquatic Animal ? -> Max Lifespan 100000
+- Spirit -> Lifespan Base Mana
+- Undead -> Zombie, Skeleton, 
+- Angel -> Max Lifespan ???
+- Monster -> Max Lifespan Unknown
+  -> Slime -> Max Lifespan None
+
 Status (Game) : Information Character Base Game System
 Main Status :
 1. Health -> Life of Character
@@ -38,6 +57,11 @@ Element Status :
 6. Ice -> Cold
 7. Light -> Blind
 8. Dark -> Blind
+9. Null
+10. Space
+11. Time
+12. Void
+13. Chaos
 
 Sub Status :
 3. Ki/Chi ->
@@ -55,6 +79,7 @@ Extra Status :
 3. Reputation -> ... of Character
 4. Worhship -> ... of Character
 5. Follower -> ... of Character
+6. Linguistic -> ... of Charater
 
 Skill Status :
 1. Craft -> ... Create Object
@@ -79,15 +104,104 @@ Adamatine Ore
 
 Craft List :
 1. Miner -> Collecting Ore
+ -> Pickaxe
 1. Foraging -> Collecting Plant & Fruit
-1. 
+ -> Barehand / Gloves
+1. Farming -> Processing Land into ...
+ -> Hoe, Shovel, Sickle, 
+1. Fishing -> Collecting or Catching Fish
+ -> Fishing Rod / Pole / Net
+1. Climbing -> Movement into any side object
+ -> Gloves, Rope, Shoes
+1. Dancing -> Processing movement into elegant move
+ -> Shoes
+1. Talisman -> Creating Talisman
+1. Runemaker -> Creating Rune
+1. Formation -> Creating Magic Formation
+1. Poison -> Creating Poison Object
+1. Herd -> Person Takes Care Animal Farm
 
+1. Music -> Processing Sound into Melody
+ -> Dance
+ -> Flute, Zither, Piano, Guitar
+1. Gardening -> Processing Seed into Fruit & Tree
+ -> Fruit, Herb, Seed, Tree, Flower
+1. Cooking -> Processing Raw Materials into comsumable Object
+ -> Food, Drink
 1. WoodCutting / LumberJack -> Processing Tree to Wood Object
+ -> Wood, Cut, 
 1. Herbalism -> Processing Plant to Medical Object
+ -> Herb, Flower, 
 1. Smith -> Processing Raw Ore to Equipment (Armor or Weapon)
+ -> Forging, 
+ -> Metal, Axe, Anvil, Furnance
 1. Alchemy -> Processing Material to another Object
+ -> Scale, Symbol, Rune
 1. Tailor -> Processing to Equipment (Clothes)
+ -> Knitting, Tailoring, Sewing
 1. Jellewy -> Processing Gem to Accessories
+ -> Cut, Shape
 1. Scluptor -> Processing any Object to Statue
+ -> Cut, Shape
 1. Pupperty -> Processing Wood to Doll / Puppet
+ -> Cut, Shape
 1. Merchat -> Processing Buy & Sales
+ -> Talk, Charm, Intelligence
+1. Painter -> Processing of Drawing Art of Object
+ -> Charm, Draw
+1. Mechanic -> Processing of Enginner Object
+
+Zodiac & Horoscope Sign: 
+Chinese Zodiac
+1. Rat
+2. Ox
+3. Tiger
+4. Rabbit
+5. Dragon
+6. Snake
+7. Horse
+8. Goat
+9. Monkey
+10. Rooster
+11. Dog
+12. Pig
+
+Horoscope
+1. Aries (Ram) -> March 21 - Apr 19
+2. Taurus (Bull) -> Apr 20 - May 20
+3. Gemini (Twin) May 21 - June 21
+4. Cancer (Crab) June 22 - July 22
+5. Leo (Lion) Jul 23 - Aug 22
+6. Virgo (Virgin) Aug 23 - Sep 22
+7. Libra (Balance) Sep 23 - Oct 23
+8. Scorpius (Scorpion) Oct 24 - Nov 21 
+9. Sagittarius (Archer) Nov 22 - Dec 21
+10. Capricornus (Goat) Dec 22 - Jan 19
+11. Aquarius (Water Bearer) Jan 20 - Feb 18
+12. Pisces (Fish) Feb 19 - Mar 20
+
+Tarot Card :
+0. Fool
+1. Magician
+2. High Prietess
+3. Empress
+4. Emperor
+5. Hierophant
+6. Lovers
+7. Chariot
+8. Justice
+9. Hermit
+10. Wheel of Fortune
+11. Strength
+12. Hanged Man
+13. Death
+14. Temperance
+15. Devil
+16. Tower
+17. Star
+18. Moon
+19. Sun
+20. Judgement
+21. World
+
+
