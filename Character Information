@@ -1,0 +1,93 @@
+Character Information
+Character : The Person who act in the story
+Character Role : The role act in the story
+
+Role : 
+1. Protagonist -> Main Role Good Side
+2. Antagonist -> Main Role Evil Side
+3. Deuteragonist -> Protagonist Side Kick
+4. Tertiary -> Random People Around Protagonist
+5. Love interest -> People where have interest to Protagonist or Vice Versa
+6. Confidante -> The Person Who Closer to Protagonist
+7. Foil -> Sub Evil Role
+
+Character Quality : Temperament of Character in the story
+1. Dynamic/changing character -> Good to Evil or Vice Versa
+2. Static/unchanging character -> Focus on One Role
+3. Stock character -> Familiar Figure around Protagonist
+4. Symbolic character -> The Person who most influence in the story
+5. Round character -> Support Character with Backstory
+
+Status (Game) : Information Character Base Game System
+Main Status :
+1. Health -> Life of Character
+2. Mana -> Magic of Character
+3. Strength -> Power of Character
+4. Intelligence -> Magic or Knowledge of Character
+5. Vitality -> Health or Defense of Character
+6. Spirit -> Mentality of Character
+7. Agility -> Speed or Movement of Character
+8. Wisdom -> Knowledge of Character (Speed Casting or Learning)
+
+Element Status :
+1. Fire -> Burn
+2. Water -> Wet
+3. Earth
+4. Wind -> Cold
+5. Thunder -> Palayze
+6. Ice -> Cold
+7. Light -> Blind
+8. Dark -> Blind
+
+Sub Status :
+3. Ki/Chi ->
+4. Stamina ->
+5. Hunger ->
+6. Thirst ->
+7. Bladder -> 
+8. Hygiene -> 
+9. Buff -> Extra Bonus that Enchance Character
+10. DE-Buff -> 
+
+Extra Status :
+1. Charm -> ... of Character
+2. Leadership -> ... of Character
+3. Reputation -> ... of Character
+4. Worhship -> ... of Character
+5. Follower -> ... of Character
+
+Skill Status :
+1. Craft -> ... Create Object
+2. Active -> ... of Skill
+3. Passive -> ... of Skill That Usually Always Active (Instict)
+
+Crafting : Create an Object from another object
+Crafting Information :
+Recipe : Complete Detail of Crafting
+Craft Type : ...
+Craft Time : ...
+Craft Tool : ...
+Craft Material : ...
+
+Material :
+Wood
+DarkWood
+Hematite Ore
+Damacus Ore
+Mithril Ore
+Adamatine Ore
+
+Craft List :
+1. Miner -> Collecting Ore
+1. Foraging -> Collecting Plant & Fruit
+1. 
+
+1. WoodCutting / LumberJack -> Processing Tree to Wood Object
+1. Herbalism -> Processing Plant to Medical Object
+1. Smith -> Processing Raw Ore to Equipment (Armor or Weapon)
+1. Alchemy -> Processing Material to another Object
+1. Tailor -> Processing to Equipment (Clothes)
+1. Jellewy -> Processing Gem to Accessories
+1. Scluptor -> Processing any Object to Statue
+1. Pupperty -> Processing Wood to Doll / Puppet
+1. Merchat -> Processing Buy & Sales
